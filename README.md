@@ -6,9 +6,13 @@ PROJECT OBJECTIVE:
 To build a reliable classification model that can assist in early detection of breast cancer based on medical data.
 
 |Project Structure|
+
 1.data – Dataset files used for training/testing (e.g., breast_cancer_data.csv)
+
 2.notebooks – Jupyter notebooks for EDA, training, and evaluation
+
 3.scripts– Python scripts for preprocessing and model training
+
 4.models – Trained model files
 5.README.md – Project overview and instructions
 
@@ -30,9 +34,11 @@ To build a reliable classification model that can assist in early detection of b
 
 
 |Installation dependencies|
+
 1.pip install -r requirements.txt 
 
 
 |Run the notebook or script|
+
 1.jupyter notebook notebooks/breast_cancer_analysis.ipynb
    
